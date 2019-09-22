@@ -10,5 +10,6 @@ attr_accessor :wheel_size, :wheel_number
     "vroooom"
   end
 
-  def 
+  def fill_up_tank
+  end
 end
